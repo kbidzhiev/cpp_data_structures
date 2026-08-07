@@ -4,7 +4,7 @@ add_executable(hello_world_tests
 
 target_link_libraries(hello_world_tests
     PRIVATE
-        hello_world
+        HelloWorld
         #project_warnings
         GTest::gtest_main
 )
