@@ -11,4 +11,3 @@ target_include_directories(HelloWorld
 )
 
 add_subdirectory(tests)
-add_subdirectory(examples)
